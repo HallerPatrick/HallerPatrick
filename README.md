@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Poetry, Dependency Management**
 
-- 👨‍💻 All of my projects are available at [https://github.com/HallerPatrick/HallerPatrick](https://github.com/HallerPatrick/HallerPatrick)
+- 👨‍💻 All of my projects are available at [github: HallerPatrick](https://github.com/HallerPatrick)
 
-- 📝 I regulary write articles on [https://betterthannothing.blog](betterthannothing.blog)
+- 📝 I regulary write articles on [betterthannothing](https://www.betterthannothing.blog)
 
 - 💬 Ask me about **Python**
 
