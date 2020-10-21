@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/HallerPatrick/HallerPatrick](https://github.com/HallerPatrick/HallerPatrick)
 
-- 📝 I regulary write articles on [betterthannothing.blog](betterthannothing.blog)
+- 📝 I regulary write articles on [https://betterthannothing.blog](betterthannothing.blog)
 
 - 💬 Ask me about **Python**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="htps://linkedin.com/in/patrick haller" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="patrick haller" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/patrick-haller-651493126" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="patrick haller" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
