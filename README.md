@@ -3,11 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hallerpatrick" alt="hallerpatrick" /></a> </p>
 
-- 🌱 I’m currently learning **Poetry, Rust**
+- 🌱 I’m currently learning **Poetry, Rust, Machine Learning**
 
 - 👨‍💻 All of my projects are available at [github: HallerPatrick](https://github.com/HallerPatrick)
-
-- 📝 I regulary write articles on [betterthannothing](https://www.betterthannothing.blog)
 
 - 💬 Ask me about **Python**
 
