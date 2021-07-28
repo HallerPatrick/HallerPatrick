@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hallerpatrick" alt="hallerpatrick" /></a> </p>
 
-- 🌱 I’m currently learning **Poetry, Rust, PyTorch**
+- 🌱 I’m currently learning **Poetry, Rust, PyTorch, Lua, Neovim**
 
 - 👨‍💻 All of my projects are available at [github: HallerPatrick](https://github.com/HallerPatrick)
 
