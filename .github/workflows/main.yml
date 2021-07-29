@@ -24,7 +24,7 @@ jobs:
       - name: Metrics embed
         uses: lowlighter/metrics@v3.10
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ github.token }}
           committer_branch: master
           committer_message: Update metrics
