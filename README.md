@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [github: HallerPatrick](https://github.com/HallerPatrick)
 
+- 🌎 And on my [website](https://hallerpatrick.github.io//)
+
 - 💬 Ask me about **Python**
 
 - 💬 Don't ask me about **Rust**, because it is hard!
