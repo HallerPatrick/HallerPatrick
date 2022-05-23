@@ -2,7 +2,7 @@
   Hi 🤗, I'm Patrick Haller
   </br>
   I am Master Student and Software Engineer and currently deep diving
-  into the field of Natural Language Processing.
+  into the field of Natural Language Processing.<\br>
   In the mean time, I am looking to contribute to great Open Source projects.
   
   <p align="center"><samp> ~
