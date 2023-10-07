@@ -1,7 +1,7 @@
 <p align="center">
   Hi 🤗, I'm Patrick Haller
   </br>
-  I am Master Student and Software Engineer and currently deep diving
+  I am a PhD Student and currently deep diving
   into the field of Natural Language Processing.</br>
   In the mean time, I am looking to contribute to great Open Source projects.
   
@@ -10,12 +10,8 @@
    ·
    <a href="https://hallerpatrick.github.io">website</a>
    ·
-   <a href="www.linkedin.com/in/patrick-haller-651493126">linkedin</a>
+   <a href="https://linkedin.com/in/patrick-haller-651493126">linkedin</a>
    ~ </samp><br><br>
    
+  </p>
 </p>
-</p>
-
-<h3 align="center">Doing different stuff, mainly working as a Python Developer</h3>
-<h2> </h2>
-  
